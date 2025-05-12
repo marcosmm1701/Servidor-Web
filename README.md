@@ -23,13 +23,13 @@ Para instalar y ejecutar este proyecto en tu máquina local, sigue los siguiente
 1. **Clonar el repositorio**:
 
     ```
-    git clone https://git.eps.uam.es/redes2/2425/2311-2391/p06/practica-1.git
+    git clone https://github.com/marcosmm1701/Servidor-Web/
     ```
 
 2. **Navegar al directorio del proyecto**:
 
     ```
-    cd practica-1/web_server_P1
+    cd web_server_P1
     ```
 
 3. **Compilar el código fuente**:
@@ -85,16 +85,11 @@ Este proyecto es una entrega de clase y no se aceptan contribuciones externas. E
 
 ## Autores y reconocimiento
 
-Este proyecto ha sido desarrollado por **Marcos Muñoz e Ignacio Serena** y está basado en el trabajo proporcionado por el profesorado de la asignatura **Redes 2**. Agradecimientos especiales a **Sedyeman Emami** por su orientación y apoyo.
-
-## Licencia
-
-Este proyecto **no tiene licencia**. Está destinado exclusivamente para uso académico dentro del marco de la asignatura **Redes 2**. No se otorgan derechos explícitos de distribución, modificación ni uso comercial. 
-
+Este proyecto ha sido desarrollado por **Marcos Muñoz
 
 ## Estado del Proyecto
 
-Este proyecto está en finalizado para la fecha prevista de entrega de la Práctica 1, a 19/03/2025.
+Este proyecto está en finalizado.
 
 
 
