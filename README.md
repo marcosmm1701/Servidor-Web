@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene el código y la documentación para la práctica 1 de la asignatura **Redes 2**. El proyecto consiste en el desarrollo de un servidor web que es capaz de procesar peticiones HTTP 1.0 y 1.1. El servidor devuelve archivos proporcionados por el profesorado y es capaz de manejar imágenes multimedia y ejecutar scripts de prueba.
+Este repositorio contiene el código y la documentación para la práctica 1 de la asignatura **Redes 2**. El proyecto consiste en el desarrollo de un servidor web que es capaz de procesar peticiones HTTP 1.0 y 1.1, teniendo en cuenta todos sus posibles valores de entrada. El servidor devuelve archivos de distintos formatos y es capaz de manejar imágenes multimedia y ejecutar scripts.
 
 Este proyecto es una implementación que pone en práctica conceptos fundamentales de redes y servidores web, permitiendo la gestión eficiente de las solicitudes y respuestas HTTP.
 
