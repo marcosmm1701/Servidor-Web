@@ -85,7 +85,7 @@ Este proyecto es una entrega de clase y no se aceptan contribuciones externas. E
 
 ## Autores y reconocimiento
 
-Este proyecto ha sido desarrollado por **Marcos Muñoz
+Este proyecto ha sido desarrollado por **Marcos Muñoz**
 
 ## Estado del Proyecto
 
