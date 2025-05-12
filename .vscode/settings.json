@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "client_utils.h": "c",
+        "client.h": "c",
+        "scripts.h": "c"
+    }
+}
